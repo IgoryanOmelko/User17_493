@@ -1,0 +1,17 @@
+C:\Users\igor_\Desktop\DemoExamUser17\Project\SportInvent\bin\Debug\SportInvent.exe.config
+C:\Users\igor_\Desktop\DemoExamUser17\Project\SportInvent\bin\Debug\SportInvent.exe
+C:\Users\igor_\Desktop\DemoExamUser17\Project\SportInvent\bin\Debug\SportInvent.pdb
+C:\Users\igor_\Desktop\DemoExamUser17\Project\SportInvent\bin\Debug\EntityFramework.dll
+C:\Users\igor_\Desktop\DemoExamUser17\Project\SportInvent\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\igor_\Desktop\DemoExamUser17\Project\SportInvent\bin\Debug\EntityFramework.xml
+C:\Users\igor_\Desktop\DemoExamUser17\Project\SportInvent\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\igor_\Desktop\DemoExamUser17\Project\SportInvent\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\igor_\Desktop\DemoExamUser17\Project\SportInvent\obj\Debug\SportInvent.csproj.AssemblyReference.cache
+C:\Users\igor_\Desktop\DemoExamUser17\Project\SportInvent\obj\Debug\SportInvent.Properties.Resources.resources
+C:\Users\igor_\Desktop\DemoExamUser17\Project\SportInvent\obj\Debug\SportInvent.FormAuthorization.resources
+C:\Users\igor_\Desktop\DemoExamUser17\Project\SportInvent\obj\Debug\SportInvent.FormTemplate.resources
+C:\Users\igor_\Desktop\DemoExamUser17\Project\SportInvent\obj\Debug\SportInvent.csproj.GenerateResource.cache
+C:\Users\igor_\Desktop\DemoExamUser17\Project\SportInvent\obj\Debug\SportInvent.csproj.CoreCompileInputs.cache
+C:\Users\igor_\Desktop\DemoExamUser17\Project\SportInvent\obj\Debug\SportInvent.csproj.CopyComplete
+C:\Users\igor_\Desktop\DemoExamUser17\Project\SportInvent\obj\Debug\SportInvent.exe
+C:\Users\igor_\Desktop\DemoExamUser17\Project\SportInvent\obj\Debug\SportInvent.pdb
